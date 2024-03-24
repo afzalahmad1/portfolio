@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Crupto Tracker",
+    "imageSrc": "projects/crypto.png",
+    "description": "Designing a ReactJs Application that shows the real-time Information of cryptocurrencies bt hitting coingecko API.",
+    "skills": ["React", "Material ui", "Framer Motion"],
+    "demo": "https://beautiful-axolotl-965ab7.netlify.app/",
+    "source": "https://github.com/afzalahmad1/Crypto-Tracker.git"
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Build a front-end project using HTML, CSS, and JavaScript, It has sign-up and login, shop page, cart page.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://afzalahmad1.github.io/e-commerce/",
+    "source": "https://github.com/afzalahmad1/e-commerce.git"
+  },
+  {
+    "title": "Google keep clone",
+    "imageSrc": "projects/keep.png",
+    "description": "Designing google keep clone using ReactJs and redux-toolkit where we can perform create notes, delete notes, edit notes.",
+    "skills": ["React", "Redux-Toolkit"],
+    "demo": "https://afzal-ahmad-propcaity.netlify.app/",
+    "source": "https://github.com/afzalahmad1/propcaity.git"
+  }
+]
