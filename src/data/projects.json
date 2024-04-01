@@ -1,6 +1,6 @@
 [
   {
-    "title": "Crupto Tracker",
+    "title": "Crypto Tracker",
     "imageSrc": "projects/crypto.png",
     "description": "Designing a ReactJs Application that shows the real-time Information of cryptocurrencies bt hitting coingecko API.",
     "skills": ["React", "Material ui", "Framer Motion"],
