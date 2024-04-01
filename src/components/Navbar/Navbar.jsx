@@ -10,7 +10,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="../../../assets/resume/Afzal_Resume(13).pdf" target="_blank">
+      <a className={styles.title} href="https://app.luminpdf.com/viewer/660a4f0fa708bd250969500f" target="_blank">
         Resume
       </a>
       <div className={styles.menu}>
