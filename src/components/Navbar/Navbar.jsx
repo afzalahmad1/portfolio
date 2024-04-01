@@ -9,7 +9,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="../../../assets/resume/Afzal_Resume(12).pdf" target="_blank">
+      <a className={styles.title} href="../../../assets/resume/Afzal_Resume(13).pdf" target="_blank">
         Resume
       </a>
       <div className={styles.menu}>

@@ -4,8 +4,8 @@
     "imageSrc": "projects/crypto.png",
     "description": "Designing a ReactJs Application that shows the real-time Information of cryptocurrencies bt hitting coingecko API.",
     "skills": ["React", "Material ui", "Framer Motion"],
-    "demo": "https://beautiful-axolotl-965ab7.netlify.app/",
-    "source": "https://github.com/afzalahmad1/Crypto-Tracker.git"
+    "demo": "https://afzal-ahmad-crypto-tracker.netlify.app/",
+    "source": "https://github.com/afzalahmad1/crypto.git"
   },
   {
     "title": "E-Commerce Website",
